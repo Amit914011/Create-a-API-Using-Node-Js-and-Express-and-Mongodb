@@ -1,0 +1,2 @@
+### get All Product
+GET http://localhost:3500/api/products HTTP/1.1
